@@ -11,6 +11,7 @@ Download following files from "http://mlsp.umbc.edu/resources.html"
 3. Independent vector analysis using multivariate power exponential distribution prior (IVA-MPE) also known as IVA-GGD
 
 Reference:
+
 [1] S. Bhinge, Y. Levin-schwartz, and T. Adali, "Data-driven fusion of multi-camera video sequences:
 Application to abandoned object detection," in IEEE International Conference on Acoustics, Speech 
 and Signal Processing (ICASSP), 2017, pp. 1697-1701.
